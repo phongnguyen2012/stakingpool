@@ -1,0 +1,2 @@
+# stakingpool
+smart contract staking
