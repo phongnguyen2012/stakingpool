@@ -2,7 +2,7 @@ Build
 ./build.sh
 
 Run FT contract
-./ft_contract.sh
+./createtoken.sh
 
 Run Staking contract
-./staking_contract.sh
+./stakingcontract.sh
